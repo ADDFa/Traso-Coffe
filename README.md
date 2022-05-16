@@ -9,7 +9,7 @@ Website Static - Tugas Proyek Pemrograman Internet dan E-Commerce
 - Created On : Maret - April 2022
 - Technology : HTML | CSS | Javascript
 
-## Contributor
+## Contributors
 
 1. Adha Dont Differatama
 2. Ahmad Faris
